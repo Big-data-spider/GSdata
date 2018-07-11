@@ -1,0 +1,15 @@
+程序路线
+
+1.从以上网站查找重庆企业名称
+
+2.制作企业名称列表去重
+
+3.通过企业精确名称在企查查站点爬取精确信息
+
+4.信息抓取过程中不断更换ip地址
+
+[图片]http://www.bgcheck.cn/MemberCenter/FirmCredit/Search.html
+[图片]https://www.atobo.com.cn/GongShang/
+慧聪网www.hc360.com
+企查查https://www.qichacha.com/
+
