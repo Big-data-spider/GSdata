@@ -1,0 +1,63 @@
+[
+    {
+        "domain": ".ubaike.cn",
+        "httpOnly": false,
+        "name": "Hm_lpvt_373863c10d213ef78db501916c4d69d1",
+        "path": "/",
+        "secure": false,
+        "value": "1531384593"
+    },
+    {
+        "domain": "www.ubaike.cn",
+        "expiry": 1531391792.745775,
+        "httpOnly": false,
+        "name": "whatsnsauth",
+        "path": "/",
+        "secure": true,
+        "value": "81c7nDpjYt1%2Bo0jzU0KErHrHShIPytpNhMcOy1jyJNSuH4WdF%2BvlxX4GnqX1stMCx6Mf%2FsCwoelcsMkekjUvNfcFsQ"
+    },
+    {
+        "domain": "www.ubaike.cn",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "secure": false,
+        "value": "9063q2een4jk0vp9ucdl6jp9g7"
+    },
+    {
+        "domain": "www.ubaike.cn",
+        "expiry": 1531386386.956213,
+        "httpOnly": false,
+        "name": "whatsnssid",
+        "path": "/",
+        "secure": true,
+        "value": "462f47aaf0c0a4b6"
+    },
+    {
+        "domain": "www.ubaike.cn",
+        "expiry": 1531384646.956265,
+        "httpOnly": false,
+        "name": "whatsnslastrefresh",
+        "path": "/",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".ubaike.cn",
+        "expiry": 1562920593,
+        "httpOnly": false,
+        "name": "Hm_lvt_373863c10d213ef78db501916c4d69d1",
+        "path": "/",
+        "secure": false,
+        "value": "1531384593"
+    },
+    {
+        "domain": "www.ubaike.cn",
+        "expiry": 1562920586.956309,
+        "httpOnly": true,
+        "name": "__jsluid",
+        "path": "/",
+        "secure": false,
+        "value": "2fc08b574212407950a89b86fa4cfd35"
+    }
+]
