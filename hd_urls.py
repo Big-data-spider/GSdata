@@ -63,7 +63,7 @@ def get_urls():
         file.close()
 
         time.sleep(10)
-
+        driver.close()
         driver.quit()
 
 

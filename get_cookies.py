@@ -79,7 +79,7 @@ def hd_kukis():
 
 # qcc_kukis()
 # ty_kukis()
-hd_kukis()
+# hd_kukis()
 
 '''
 然后又从文件取出cookie，因为取出的时候是字符串形式，然后通过cookie =json.loads(cookie)转为字典，因为取出的cookie，使用通过循环add到driver，然后刷新一下driver就可以了
